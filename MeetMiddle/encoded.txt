@@ -1,0 +1,3 @@
+b'GENERAL ': b'GENERAL '
+single_ciphertext =  b'\x90zu%+O\xff\xd2'
+double_ciphertext =  b'\xf0\x82B\xec\xf7\x0c|%'
